@@ -233,19 +233,6 @@ button.loading {
 	transform:rotateX(180deg);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 .spinner {
   position: absolute;
   top: 33.75rem; /* Equivalent to 540px */
